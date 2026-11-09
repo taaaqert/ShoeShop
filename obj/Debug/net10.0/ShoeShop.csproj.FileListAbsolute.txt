@@ -1,0 +1,14 @@
+C:\Users\student104\ShoeShop\bin\Debug\net10.0\ShoeShop.exe
+C:\Users\student104\ShoeShop\bin\Debug\net10.0\ShoeShop.deps.json
+C:\Users\student104\ShoeShop\bin\Debug\net10.0\ShoeShop.runtimeconfig.json
+C:\Users\student104\ShoeShop\bin\Debug\net10.0\ShoeShop.dll
+C:\Users\student104\ShoeShop\bin\Debug\net10.0\ShoeShop.pdb
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.AssemblyInfoInputs.cache
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.AssemblyInfo.cs
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.csproj.CoreCompileInputs.cache
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.dll
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\refint\ShoeShop.dll
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.pdb
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ShoeShop.genruntimeconfig.cache
+C:\Users\student104\ShoeShop\obj\Debug\net10.0\ref\ShoeShop.dll
