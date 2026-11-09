@@ -37,7 +37,7 @@ while (true)
             Console.WriteLine("Корзина очищена.");
             break;
         case "0":
-
+            /Console.WriteLine("До свидания!");
             return;
         default:
             Console.WriteLine("Неизвестная команда.");
